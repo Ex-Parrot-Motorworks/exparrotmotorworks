@@ -1,5 +1,3 @@
-# exparrotmotorworks
-Ex-Parrot Motorworks
 # Ex-Parrot Motorworks
 
 **Expert Consulting • Trusted Diagnostics • Thoughtful Maintenance**
