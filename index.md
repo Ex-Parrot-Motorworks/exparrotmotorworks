@@ -22,6 +22,10 @@ Whether you're trying to diagnose an intermittent issue, plan a restoration, mai
 
 # Services
 
+### Pre-Buy Inspections
+
+Conducting thorough pre-buy inspections for clients to help ensure they are getting what they want. Full pictures and reports provided.
+
 ### Technical Consulting
 
 Independent guidance before repairs or restoration.
@@ -32,7 +36,7 @@ Systematic troubleshooting to identify root causes—not just symptoms.
 
 ### Maintenance
 
-Routine maintenance and selected mechanical work for enthusiast vehicles.
+Guiding clients through routine maintenance and selected mechanical work for enthusiast vehicles.
 
 ### Project Support
 
@@ -63,13 +67,8 @@ Keep interesting machines alive.
 
 ---
 
-# Contact
-
-Steve Abraham
-
 Fresno, California
 
-Email coming soon
 
 ---
 
